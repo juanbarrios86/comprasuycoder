@@ -16,12 +16,14 @@ Instalar node - Versión 14.17.3 [Descargar](https://nodejs.org/en/blog/release/
 
 ## Instalaciones necesarias para ejecutar desde terminal
 
-npm install sass
-npm install react-bootstrap@next bootstrap@5.1.1
-npm install react-icons
-npm install react-router-dom
-npm install sweetalert2
-npm install firebase@8.10.0
+* npm install sass
+* npm install react-bootstrap@next bootstrap@5.1.1
+* npm install react-icons
+* npm install react-router-dom
+* npm install sweetalert2
+* npm install firebase@8.10.0
+
+* Para iniciar la aplicación: npm start
 
 ## Temas aplicaddos
 
