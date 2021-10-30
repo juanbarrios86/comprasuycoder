@@ -23,7 +23,7 @@ Instalar node - Versión 14.17.3 [Descargar](https://nodejs.org/en/blog/release/
 * npm install sweetalert2
 * npm install firebase@8.10.0
 
-* Para iniciar la aplicación: npm start
+* Para iniciar la aplicación: npm start 
 
 ## Temas aplicaddos
 
