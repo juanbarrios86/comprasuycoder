@@ -6,6 +6,9 @@ Sitio web desarrollado para la entrega final del proyecto de React JS de CoderHo
 
 Carrito de compras de un supermercado que incorpora React JS, node, CSS, Bootstrap, fonts y Firebase. 
 
+![image](https://github.com/juanbarrios86/comprasuycoder/blob/main/src/assets/usodelsistema.gif)
+
+
 ## Visual Studio Code
 
 [Descargar VSC](https://code.visualstudio.com/download)
